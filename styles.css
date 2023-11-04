@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+    background-attachment: fixed;
+}
+
+h1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    background-color: bisque;
+    border-radius: 5px;
+}
